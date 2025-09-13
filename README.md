@@ -11,3 +11,4 @@
 2. Run `git init` to create a .git folder
 3. Create a `README.md` to log the enviornment and steps
 4. Use `git add` and `git commit` to track changes
+5. 2.3: Renamed to 0_tts_test.sh and committed via VS Code Source Control.

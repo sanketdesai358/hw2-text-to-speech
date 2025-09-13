@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# 2.3: committed via VS Code Source Control
 set -euo pipefail
 
 echo "[1/5] Locate script dir"

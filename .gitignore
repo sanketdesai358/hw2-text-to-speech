@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files (API keys, secrets)
+.env
+*.env
+
+# Virtual environment
+.venv/
+
+# Build artifacts from TTS test
+hello.mp3
+resp.headers
+run.log
