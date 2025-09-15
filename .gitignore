@@ -7,7 +7,7 @@ __pycache__/
 *.env
 
 # Virtual environment
-.venv/
+env/
 
 # Build artifacts from TTS test
 hello.mp3
